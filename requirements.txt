@@ -1,0 +1,4 @@
+keras==2.8.0
+opencv_python==4.5.5.62
+streamlit==1.5.0
+tensorflow
